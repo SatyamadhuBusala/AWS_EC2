@@ -63,10 +63,13 @@ This guide walks through the process of deploying a basic website on an EC2 inst
 
 ## 📸 Screenshots
 _Add screenshots of your EC2 setup, MobaXterm connection, and live website here (if available):_
-```markdown
-![EC2 Instance](screenshots/ec2-instance.png)
-![Website View](screenshots/website-view.png)
-```
+### EC2 Instance
+![EC2 Instance](https://github.com/SatyamadhuBusala/AWS_EC2/blob/main/Hosting%20Website%20in%20AWS%20EC2/img/ec2_ins.png)
+### Mobaxterm Connection
+![mobaxterm connection](https://github.com/SatyamadhuBusala/AWS_EC2/blob/main/Hosting%20Website%20in%20AWS%20EC2/img/mobaxterm%20connection.png)
+### WebSite View
+![Website View](https://github.com/SatyamadhuBusala/AWS_EC2/blob/main/Hosting%20Website%20in%20AWS%20EC2/img/website%20view.png)
+
 
 ---
 
@@ -77,10 +80,3 @@ _Add screenshots of your EC2 setup, MobaXterm connection, and live website here 
 
 ---
 
-## 🔗 License
-This project is for learning purposes only.
-```
-
----
-
-Let me know if you want help creating the `screenshots/` folder or uploading your actual screenshots to link them here!
